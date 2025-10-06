@@ -1,0 +1,15 @@
+[submodule "labs/fall2025-csc3511-lab1-pythonandencodings-akoske68"]
+	path = labs/fall2025-csc3511-lab1-pythonandencodings-akoske68
+	url = https://github.com/msoe-csc3511/fall2025-csc3511-lab1-pythonandencodings-akoske68.git
+[submodule "labs/fall2025-csc3511-lab2-byteinterpretation-akoske68"]
+	path = labs/fall2025-csc3511-lab2-byteinterpretation-akoske68
+	url = https://github.com/msoe-csc3511/fall2025-csc3511-lab2-byteinterpretation-akoske68.git
+[submodule "labs/fall2025-csc3511-lab3-udpandtcpprotocols-akoske68"]
+	path = labs/fall2025-csc3511-lab3-udpandtcpprotocols-akoske68
+	url = https://github.com/msoe-csc3511/fall2025-csc3511-lab3-udpandtcpprotocols-akoske68.git
+[submodule "labs/fall2025-csc3511-lab4-linuxandwireshark-akoske68"]
+	path = labs/fall2025-csc3511-lab4-linuxandwireshark-akoske68
+	url = https://github.com/msoe-csc3511/fall2025-csc3511-lab4-linuxandwireshark-akoske68.git
+[submodule "labs/fall2025-csc3511-lab5-packet-sniffing-and-spoofing-akoske68"]
+	path = labs/fall2025-csc3511-lab5-packet-sniffing-and-spoofing-akoske68
+	url = https://github.com/msoe-csc3511/fall2025-csc3511-lab5-packet-sniffing-and-spoofing-akoske68.git
