@@ -13,3 +13,9 @@
 [submodule "labs/fall2025-csc3511-lab5-packet-sniffing-and-spoofing-akoske68"]
 	path = labs/fall2025-csc3511-lab5-packet-sniffing-and-spoofing-akoske68
 	url = https://github.com/msoe-csc3511/fall2025-csc3511-lab5-packet-sniffing-and-spoofing-akoske68.git
+[submodule "labs/labs/fall2025-csc3511-lab6-tcp-attack-akoske68"]
+	path = labs/labs/fall2025-csc3511-lab6-tcp-attack-akoske68
+	url = git@github.com-akoske68:msoe-csc3511/fall2025-csc3511-lab6-tcp-attack-akoske68.git
+[submodule "labs/fall2025-csc3511-lab6-tcp-attack-akoske68"]
+	path = labs/fall2025-csc3511-lab6-tcp-attack-akoske68
+	url = git@github.com-akoske68:msoe-csc3511/fall2025-csc3511-lab6-tcp-attack-akoske68.git
